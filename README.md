@@ -22,7 +22,7 @@ The following functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/8altQUhSaK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://recordit.co/wiiLeU8YLE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
